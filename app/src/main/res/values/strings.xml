@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_valuta">valuta</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Укажите валюту</string>>
+    <string name="dolar">Доллар</string>
+    <string name="rybl">Рубль</string>
+    <string name="evro">Евро</string>
+</resources>
